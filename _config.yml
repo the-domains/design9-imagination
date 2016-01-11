@@ -1,0 +1,28 @@
+name: Design9 Imagination
+favicon: null
+layout_spectrum: 0.8319006310775876
+typography_spectrum: 0.33115998725406826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.26720478292554617
+  lightness: 0.5768155953846872
+  saturation: 0.17377160163596272
+  rhythmicContrast: 0.40686458302661777
+purpose: []
